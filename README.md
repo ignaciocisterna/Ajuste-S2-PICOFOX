@@ -24,7 +24,7 @@ Mientras que la variable dependiente correspondería al número de cuentas de la
 
 ## Librerías requeridas
 
-El código hace uso del las librerías de python: numpy, matplotlib.pyplot y scipy.optimize.
+El código hace uso del las librerías de python: numpy, matplotlib.pyplot, scipy.optimize y scipy.stats.
 
 ## Imputs, outputs y sintaxis de la función
 
