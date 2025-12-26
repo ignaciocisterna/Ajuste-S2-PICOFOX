@@ -54,6 +54,8 @@ Donde C_corregida corresponde a la concentración corregida, P_corrección al pa
 
 Cabe resaltar que el parámetro P_corrección sirve a la vez como medida de la precisión del instrumento, ya que cuanto más cercano a 1 sea su valor, más certera es la medición que el PICOFOX entrega para el elemento al que se le está calibrando.
 
+El código Ajuste_Directo_Conc.ipynb requiere de un set de datos de concentraciones medidas por el PICOFOX y el correspondiente set de datos de las concentarciones conocidas de las muestras medidas del primer set.
+
 ### Librerías requeridas
 
 El código hace uso del las librerías de python: numpy, matplotlib.pyplot, scipy.optimize y scipy.stats.
