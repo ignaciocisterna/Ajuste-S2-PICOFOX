@@ -2,9 +2,9 @@
 
 ## Fundamento
 
-El código del presente repositorio tiene por objetivo realizar un ajuste lineal para determinar el factor de sensibilidad del instrumento frente a una determinada especie.
+Los códigos del presente repositorio tiene por objetivo realizar un ajuste lineal para calibrar las mediciones del PICOFOX mediante dos esquemas diferentes, el primero busca determinar el factor de sensibilidad del instrumento frente a una determinada especie, mientras que el segundo determina un parámetro de corrección para las mediciones entregadas por este.
 
-Este método se basa en lo descrito en el manual de usuario del instrumento S2 PICOFOX, donde se indica que el factor de sensibildad se calcula mediante la siguiente ecuación:
+El primer método se basa en lo descrito en el manual de usuario del instrumento S2 PICOFOX, donde se indica que el factor de sensibildad se calcula mediante la siguiente ecuación:
 
 <img width="137" height="48" alt="lagrida_latex_editor" src="https://github.com/user-attachments/assets/ce1b13f2-3db4-427e-bc7b-59a6451c9ca9" />
 
